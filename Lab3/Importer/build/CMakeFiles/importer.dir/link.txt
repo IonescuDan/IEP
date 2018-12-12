@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/importer.dir/src/importer.cpp.o  -o importer  -L/home/dani/Documents/IEP/Lab3/Library/build -Wl,-rpath,/home/dani/Documents/IEP/Lab3/Library/build -Wl,-Bstatic -lfisier -Wl,-Bdynamic 

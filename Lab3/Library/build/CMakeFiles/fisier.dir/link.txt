@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfisier.a  CMakeFiles/fisier.dir/src/fisier.cpp.o
+/usr/bin/ranlib libfisier.a

@@ -1,0 +1,3 @@
+/home/dani/Documents/IEP/Lab7/build/CMakeFiles/rebuild_cache.dir
+/home/dani/Documents/IEP/Lab7/build/CMakeFiles/items13.dir
+/home/dani/Documents/IEP/Lab7/build/CMakeFiles/edit_cache.dir

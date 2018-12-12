@@ -1,0 +1,3 @@
+/home/dani/Documents/IEP/Lab5/build/CMakeFiles/rebuild_cache.dir
+/home/dani/Documents/IEP/Lab5/build/CMakeFiles/complexClass.dir
+/home/dani/Documents/IEP/Lab5/build/CMakeFiles/edit_cache.dir

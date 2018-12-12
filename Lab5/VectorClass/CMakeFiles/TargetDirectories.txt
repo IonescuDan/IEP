@@ -1,0 +1,3 @@
+/home/dani/Documents/IEP/Lab5/VectorClass/CMakeFiles/rebuild_cache.dir
+/home/dani/Documents/IEP/Lab5/VectorClass/CMakeFiles/vectorClass.dir
+/home/dani/Documents/IEP/Lab5/VectorClass/CMakeFiles/edit_cache.dir
